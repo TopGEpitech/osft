@@ -4,11 +4,13 @@
 
 Teamfight Tactics on your Mac. Full screen, keyboard controls, no jank.
 
-Honest story: TFT just isn't there on 18.1, and I wasn't about to stop playing.
-So I've spent the better part of a year running it on an emulator, tuning it,
-breaking it, tuning it again, until it actually felt good on a Mac. At some point
-I figured I'd stop keeping it to myself. This is that setup, cleaned up and
-optimized for TFT, so you don't have to sink a year into getting there.
+Last season I was playing on Emulator due to a bad PC  and since
+TFT will not be there on 18.1, and I wasn't about to stop playing.
+I brought my  emulator and decided to tuning it, breaking it, tuning it again, 
+until it actually felt good on a Mac. At some point I figured I'd stop keeping it to myself. 
+This is that setup, cleaned up and optimized for TFT, so you don't have to sink a year into 
+getting there.
+
 
 It runs a real Android device locally (Apple's own Hypervisor, nothing hacky),
 renders straight to the GPU, and hands you keyboard controls that feel right for
