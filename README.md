@@ -1,13 +1,14 @@
 # OS FIGHT TACTICS
 
-![OS FIGHT TACTICS](cover_launcher.png)
+![OS FIGHT TACTICS](launcher.png)
 
 Teamfight Tactics on your Mac. Full screen, keyboard controls, no jank.
 
-I got tired of squinting at TFT on my phone while my Apple Silicon Mac sat there
-doing nothing. Streaming it felt laggy, and the usual emulators are a mess of
-Android Studio installs and system tweaks. So I built the launcher I actually
-wanted to use.
+Honest story: TFT just isn't there on 18.1, and I wasn't about to stop playing.
+So I've spent the better part of a year running it on an emulator — tuning it,
+breaking it, tuning it again — until it actually felt good on a Mac. At some
+point I figured I'd stop keeping it to myself. This is that setup, cleaned up
+and optimized for TFT, so you don't have to sink a year into getting there.
 
 It runs a real Android device locally (Apple's own Hypervisor, nothing hacky),
 renders straight to the GPU, and hands you keyboard controls that feel right for
